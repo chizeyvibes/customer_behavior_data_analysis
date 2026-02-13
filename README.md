@@ -25,3 +25,16 @@ This project explores customer shopping behavior using transactional data from 3
 - Python – Data cleaning, feature engineering, preprocessing
 - PostgreSQL – Structured business analysis with SQL queries
 - Power BI – Interactive dashboards for visualization
+
+## 📊 Dashboard Preview
+
+Here’s a snapshot of the interactive Power BI dashboard built for this project:
+
+![Customer Behavior Dashboard](images/dashboard_preview2.png)
+![Customer Behavior Dashboard](images/dashboard_preview1.png)
+
+The dashboard highlights:
+- Subscription status distribution
+- Revenue by category
+- Age group contributions
+- Shipping type comparisons
