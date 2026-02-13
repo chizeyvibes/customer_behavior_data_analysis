@@ -30,8 +30,8 @@ This project explores customer shopping behavior using transactional data from 3
 
 Here’s a snapshot of the interactive Power BI dashboard built for this project:
 
-![Customer Behavior Dashboard](images/dashboard_preview2.png)
-![Customer Behavior Dashboard](images/dashboard_preview1.png)
+![Customer Behavior Dashboard](dashboard_preview2.png)
+![Customer Behavior Dashboard](dashboard_preview1.png)
 
 The dashboard highlights:
 - Subscription status distribution
